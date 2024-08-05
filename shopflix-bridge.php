@@ -3,8 +3,8 @@
 Plugin Name: shopflix-bridge
 Description: A plugin to synchronize orders in WooCommerce and Shopflix.
 Version: 0.1.1
-Author: SmartWebSolutions
-Author URI:	https://smartwebsolutions.gr/
+Author: Panagiotis Kostolias
+Author URI:	https://github.com/panoskwst
 */
 
 require_once(plugin_dir_path(__FILE__) . 'admin/admin-settings.php');
